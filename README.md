@@ -16,5 +16,5 @@ The game play is same as the arcade game 'Breakout' with the below variations.
 - Tracks 10 high scores using a text file at the backend.
 
 ##Screenshots:
-![Main screen](https://raw.github.com/username/projectname/branch/path/to/img.png)
-![High scores screen](https://raw.github.com/username/projectname/branch/path/to/img.png)
+![Main screen](https://cloud.githubusercontent.com/assets/4311177/12473551/bf2263fe-bfd8-11e5-87d7-85e86a0e9106.png)
+![High scores screen](https://cloud.githubusercontent.com/assets/4311177/12473540/b8ad77ca-bfd8-11e5-8b94-edcb597fa5bd.png)
